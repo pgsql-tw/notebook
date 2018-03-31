@@ -3,10 +3,10 @@
 
 ## 準備
 1. 下載 PostgreSQL 並安裝。
-   - https://www.postgresql.org/download/
+- [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
 2. 下載 Anaconda 並安裝。
-   - https://www.anaconda.com/download/
-3. 打開 Anaconda Navigator 表示已安裝完成。
+- [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+3. 試著打開 Anaconda Navigator 表示已安裝完成。
 4. 安裝 python 套件 - 打開 Anaconda Prompt (Windows)，或你慣用的 Terminal：
    
 ```
