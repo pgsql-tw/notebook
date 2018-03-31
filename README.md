@@ -7,7 +7,7 @@
 2. 下載 Anaconda 並安裝。
    - https://www.anaconda.com/download/
 3. 打開 Anaconda Navigator 表示已安裝完成。
-4. 安裝 python 套件 - 打開 Anaconda Prompt
+4. 安裝 python 套件 - 打開 Anaconda Prompt (Windows)，或你慣用的 Terminal：
    
 ```
 $ pip install ipython-sql psycopg2
