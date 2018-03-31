@@ -1,7 +1,7 @@
 # Jupyter notebook for PostgreSQL
 本專案使用 Jupyter Notebook 來提供 PostgreSQL 的教學文件，可以搭配指定的 PostgreSQL 主機，進行即時互動式的操作。
 
-## 安裝 (Windows)
+## 準備
 1. 下載 PostgreSQL 並安裝。
    - https://www.postgresql.org/download/
 2. 打開 pgAdmin 確認安裝結果。
