@@ -8,13 +8,14 @@
    - https://www.anaconda.com/download/
 3. 打開 Anaconda Navigator 表示已安裝完成。
 4. 安裝 python 套件 - 打開 Anaconda Prompt
-   
+   
 ```
 $ pip install ipython-sql psycopg2
 ```
 
-5. 下載本專案，在本機解壓縮（或到[Github](https://github.com/pgsql-tw/notebook)只下載你有興趣的.ipynb檔）
-6. 在 Anaconda 中打開 Jupyter Notebook，切換目錄點選解壓後目錄中的檔案即完成。
+## 使用
+1. 下載本專案，在本機解壓縮（或到[Github](https://github.com/pgsql-tw/notebook)只下載你有興趣的.ipynb檔）
+2. 在 Anaconda 中打開 Jupyter Notebook，切換目錄點選解壓後目錄中的檔案即完成。
 
 ## 參考
 Notebook 裡的 SQL 延伸套件詳細使用方式，請參閱：
