@@ -23,5 +23,3 @@ Notebook 裡的 SQL 延伸套件詳細使用方式，請參閱：
 
 ## 版權
 本筆記由 [PostgreSQL 台灣使用者社群](https://postgresql.tw)提供，採 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW) 授權。
-
-專案首頁為：[http://postgresql.tw/notebook/](http://postgresql.tw/notebook/)
