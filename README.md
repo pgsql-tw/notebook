@@ -3,12 +3,11 @@
 
 ## 準備
 1. 下載 PostgreSQL 並安裝。
-   - https://www.postgresql.org/download/
-2. 打開 pgAdmin 確認安裝結果。
-3. 下載 Anaconda 並安裝。
-   - https://www.anaconda.com/download/
-4. 打開 Anaconda Navigator 表示已安裝完成。
-5. 安裝 python 套件 - 打開 Anaconda Prompt
+   - https://www.postgresql.org/download/
+2. 下載 Anaconda 並安裝。
+   - https://www.anaconda.com/download/
+3. 打開 Anaconda Navigator 表示已安裝完成。
+4. 安裝 python 套件 - 打開 Anaconda Prompt
    - https://github.com/catherinedevlin/ipython-sql
    
 ```
