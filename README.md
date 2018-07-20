@@ -22,9 +22,9 @@ $ pip install ipython-sql psycopg2
 ## Jupyter Notebook Viewer
 你也可以使用 [Jupter Notebook Viewer](https://nbviewer.jupyter.org/github/pgsql-tw/notebook/tree/master/) 觀看。
 
-## 參考
-Notebook 裡的 SQL 延伸套件詳細使用方式，請參閱：
-- [https://github.com/catherinedevlin/ipython-sql](https://github.com/catherinedevlin/ipython-sql)
+## 參閱
+- [ipython-sql](https://github.com/catherinedevlin/ipython-sql): Notebook 裡的 SQL 延伸套件詳細使用方式
+- [MADlib library](https://github.com/apache/madlib-site/tree/asf-site/community-artifacts): MADlib 提供的 Notebook 範例集合
 
 ## 版權
 本筆記由 [PostgreSQL 台灣使用者社群](https://postgresql.tw)提供，採 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW) 授權。
