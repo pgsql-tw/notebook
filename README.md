@@ -12,8 +12,8 @@
 ```
 $ pip install ipython-sql psycopg2
 ```
-
-**如果你使用多個 python 環境，請特別注意是否是安裝到 Anaconda 的環境，或是你自有 Notebook 的 python 之中**
+- psycopg2 需要 PostgreSQL Server Development 套件，如 Ubuntu/Debian 中的 postgresql-server-dev-XX
+- 如果你使用多個 python 環境，請特別注意是否是安裝到 Anaconda 的環境，或是你自有 Notebook 的 python 之中
 
 ## 使用
 1. 下載本專案，在本機解壓縮（或到[Github](https://github.com/pgsql-tw/notebook)只下載你有興趣的.ipynb檔）
