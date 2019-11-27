@@ -1,1 +1,1 @@
-postgresql-server-dev-11
+postgresql-server-dev-10
