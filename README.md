@@ -2,12 +2,14 @@
 本專案使用 Jupyter Notebook 來提供 PostgreSQL 的教學文件，可以搭配指定的 PostgreSQL 主機，進行即時互動式的操作。
 
 ## 準備
-1. 下載 PostgreSQL 並安裝。
+### 下載 PostgreSQL 並安裝。
 - [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
-2. 下載 Anaconda 並安裝。
-- [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
-3. 試著打開 Anaconda Navigator 表示已安裝完成。
-4. 安裝 python 套件 - 打開 Anaconda Prompt (Windows)：
+
+### 安裝 Jupyter Notebook
+1. 下載 Anaconda 並安裝 (Windows推薦，亦有Linux版)。
+   - [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+   - Linux 亦可使用 jupyter-notebook 套件。
+2. 安裝 python 套件 - 打開 Anaconda Prompt (確定是安裝到 Anaconda 的環境中)：
    
 ```
 $ pip install ipython-sql psycopg2
