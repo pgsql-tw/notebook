@@ -1,0 +1,2 @@
+postgresql-server-dev-12
+python3-pip
