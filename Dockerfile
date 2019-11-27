@@ -1,9 +1,3 @@
 FROM pgsqltw/binder-notebook
 
-ARG NB_USER
-ARG NB_UID
-ENV USER ${NB_USER}
-ENV HOME /home/${NB_USER}
-
-WORKDIR ${HOME}
-USER ${USER}
+ENV HOME=/tmp
