@@ -1,0 +1,4 @@
+# set data directory and initialize
+export PGDATA=$HOME/pgsql/data
+mkdir -p "$PGDATA"
+pg_ctl initdb
