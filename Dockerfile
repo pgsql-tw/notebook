@@ -1,5 +1,6 @@
 FROM postgres:12.1
 # install the notebook package
+RUN apt-get install -y python3-pip postgresql-server-dev-12
 RUN pip install --no-cache --upgrade pip && \
     pip install --no-cache notebook ipython-sql psycopg2
 
