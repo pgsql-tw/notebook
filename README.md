@@ -1,8 +1,13 @@
 # Jupyter notebook for PostgreSQL
-本專案使用 Jupyter Notebook 來提供 PostgreSQL 的教學文件，可以搭配指定的 PostgreSQL 主機，進行即時互動式的操作。<br/>
+- 本專案使用 Jupyter Notebook 來提供 PostgreSQL 的教學文件，可以搭配指定的 PostgreSQL 主機，進行即時互動式的操作。
+- 歡迎 PR 提供個人筆記。
 
 ## 線上操作
-如果你沒有自己的環境，可以直接使用在這裡使用：[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pgsql-tw/notebook/master)
+如果你沒有自己的環境，可以直接使用在這裡練習試用：[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pgsql-tw/notebook/master)
+
+- Binder 是即時產生個人操作容器，啟動可能會稍久，請耐心等候。
+- 操作過程都是暫存，不會永久保守唷。
+- 無法指定資料庫版本。
 
 ## 準備
 ### 下載 PostgreSQL 並安裝。
